@@ -37,3 +37,12 @@
   cursor: pointer;
 }*/
 
+.student{
+  font-family: 'Arial', sans-serif;
+  font-size: 2px;
+  border: 1px solid black;
+  padding: 20px;
+}
+.student p{
+  margin: 0;
+}
