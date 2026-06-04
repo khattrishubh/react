@@ -1,14 +1,8 @@
-import Card from './Card.jsx';
+import Button  from './Button.jsx';
 
 function App() 
 {
-  return (
-    <div>
-        <Card />
-        <Card />
-        <Card />
-    </div>
-  );
+  return (<Button />);
 }
 
 export default App;

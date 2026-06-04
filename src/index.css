@@ -1,4 +1,4 @@
-.card{
+/*.card{
   border: 1px solid black;
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
@@ -27,3 +27,13 @@
   font-size: 0;
   color: hsl(0, 0%, 30%);
 }
+
+.button{
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}*/
+
